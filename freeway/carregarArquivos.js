@@ -32,4 +32,4 @@ let xTouro = 450;
 //            Direita        /  Esquerda
 let xCarro = [615, 605, 610, -60, -65, -70];
 let yCarro = [45, 105, 158, 215, 270, 325];
-let velocidadeCarro = [2, 3, 4, 3, 5, 2];
+let velocidadeCarro = [0, 0, 0, 0, 0, 0];

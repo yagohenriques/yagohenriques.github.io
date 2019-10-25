@@ -28,6 +28,7 @@ function verificaVencedor(){
 
 function vacaVencedora(){
  fill("Crimson");
+background("red")
  textStyle(BOLD);
  textAlign(CENTER);
  fill("Chartreuse");
@@ -39,6 +40,7 @@ function vacaVencedora(){
 
 function touroVencedor(){
  fill("DarkOrchid");
+  background("blue")
  textStyle(BOLD);
  textAlign(CENTER);
  fill("DarkOrange");
