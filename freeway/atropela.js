@@ -19,15 +19,15 @@ function atropelamento(){
     if(atropelaTouro){
       //Touro Atropelado 
       yTouro = 367;
-      if(placarTouro > 0)
-        placarTouro -= 1;
+      if(PlacarTouro > 0)
+        PlacarTouro -= 1;
       atropelou.play();
     }
      if(atropelaVaca){
       //Touro Atropelado 
       yVaca = 367;
-      if(placarVaca > 0)
-        placarVaca -= 1;
+      if(PlacarVaca > 0)
+        PlacarVaca -= 1;
        atropelou.play();
     }
     
